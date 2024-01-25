@@ -40,14 +40,11 @@ Dependencies for the FastAPI application.
 
 ## Usage 🚀
 
-1. Clone the repository.
-git clone https://github.com/semahkadri/FastAPI-app.git
+1. Clone the repository: git clone https://github.com/semahkadri/FastAPI-app.git
 
-2. Navigate to the project directory.
-cd FastAPI-app
+2. Navigate to the project directory: cd FastAPI-app
 
-3. Build and run the Docker containers.
-docker-compose up --build
+3. Build and run the Docker containers: docker-compose up --build
 
 4. Access FastAPI at http://localhost:8000.
 
